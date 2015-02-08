@@ -28,3 +28,4 @@ A scavenger hunt composed of programming puzzles
 - Function that reveals one letter every 10 seconds.  They should alter it to make it faster
 - Code is broken and needs to be fixed to work
 - Write code that will light up every third light
+- Add an API that will return one number slightly more often than others.  They'll have to write a program to hit that API and do some analysis to figure out which number it is.
